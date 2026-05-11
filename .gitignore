@@ -3,5 +3,6 @@ bun.lock
 *.log
 .env
 .env.*
+.envrc
 !.env.example
 dist/
